@@ -1,6 +1,7 @@
 {
   "name": "jquery-sizes",
   "version": "0.33.0",
+  "main": "./lib/jquery.sizes.js",
   "description": "jQuery extension plugin for CSS properties",
   "keywords": [
     "jQuery sizes jsizes"
@@ -23,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/bramstein/jsizes.git"
+    "url": "git://github.com/SebastianBaltesObjectCode/jsizes.git"
   },
   "dependencies": {
     "jquery": "latest"
